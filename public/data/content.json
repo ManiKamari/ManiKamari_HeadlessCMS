@@ -1,0 +1,12 @@
+{
+    "info_cards": [
+        {
+            "title": "Overdue Admin Info Message", 
+            "description": "STOP DOING THESE ADMIN STUFF!"
+        },
+        {
+            "title": "Underdue Admin Info Message",
+            "description": "You Must Do Admin Stuff!"
+        }
+    ]
+}
